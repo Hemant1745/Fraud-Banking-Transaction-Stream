@@ -85,4 +85,5 @@ Class: TYAIEC–2  Group ID: A6
 
 FraudSense demonstrates the power of Machine Learning in financial security by combining intelligent classification, real-time analytics, and user-friendly visualization — enabling smarter, faster fraud detection.
 
+## PLEASE NOTE THAT MODEL COULD NOT BE UPLOADED DUE TO UPLOAD SIZE LIMIT OF FILE ON GITHUB
 
