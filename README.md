@@ -74,8 +74,8 @@ Easily extendable to API-based financial data
 
 ## 🧑‍💻 Contributors
 
-Hemant Sonewale
-Aadi Upadhyay 
+1)Hemant Sonewale
+2) Aadi Upadhyay 
 
 Faculty Guide: Prof. Aditya Pai H
 MIT School of Computing, Department of Computer Science & Engineering
